@@ -24,4 +24,4 @@ O descasamento entre a entrada física do dinheiro e o pagamento de despesas pes
 
 1. Clone este repositório para a sua máquina:
 ```bash
-git clone [https://github.com/SEU_USUARIO/fluxo_caixa_restaurante.git](https://github.com/SEU_USUARIO/fluxo_caixa_restaurante.git)
+git clone [https://github.com/waltersalles/fluxo_caixa_restaurante]
